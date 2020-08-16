@@ -1,7 +1,7 @@
 # PythonMundo1
 Códigos do curso de Python Mundo 1 do curso em vídeo
 
-Exercício Python 001: O Tradicional Olá Mundo!
+Exercício Python 001: O tradicional "Olá Mundo" não poderia faltar!
 
 Exercício Python 002: Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
@@ -45,8 +45,11 @@ Exercício Python 021: Faça um programa em Python que abra e reproduza o áudio
 #A resolução apresentada em aula não funcionou, mas busquei uma forma alternativa :)
 
 Exercício Python 022: Crie um programa que leia o nome completo de uma pessoa e mostre:
+
 – O nome com todas as letras maiúsculas e minúsculas.
+
 – Quantas letras ao todo (sem considerar espaços).
+
 – Quantas letras tem o primeiro nome.
 
 Exercício Python 023: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
